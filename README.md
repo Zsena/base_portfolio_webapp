@@ -12,7 +12,7 @@ This is a simple portfolio web application built with Django, Bootstrap, Python,
 ├── uploads/project_images/ # Uploaded project images
 ├── venv/                   # Python virtual environment (excluded from version control)
 ├── db.sqlite3              # SQLite database
-├── manage.py               # Django management script
+├── manage.py               # Django management script 
 ```
 
 ## ⚙️ Installation
