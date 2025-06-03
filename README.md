@@ -3,7 +3,7 @@
 This is a simple portfolio web application built with Django, Bootstrap, Python, and SQLite. The goal is to showcase your professional profile and projects.
 
 ## 📁 Project Structure
-    
+
 ```
 ├── pages/                  # Static pages (e.g., About, Contact)
 ├── personal_portfolio/     # Main Django configuration project
@@ -26,7 +26,7 @@ This is a simple portfolio web application built with Django, Bootstrap, Python,
 2. Create and activate a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate 
    ```
 
 3. Install the dependencies:
